@@ -1,1 +1,1 @@
-my terminal file
+hi ubuntu
